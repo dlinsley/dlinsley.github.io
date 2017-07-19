@@ -2,7 +2,14 @@ title: dlinsley.github.io
 description: 
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-slate
+
+twitter_username: danlinsley
+github_username:  dlinsley
+clarity_header_iconshape: happy-face
+source: src
 
 gems:
   - jekyll-mentions
+
+compress_html:
+  blanklines: true
