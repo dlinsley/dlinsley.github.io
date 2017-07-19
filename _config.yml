@@ -5,7 +5,7 @@ show_downloads: true
 
 twitter_username: danlinsley
 github_username:  dlinsley
-clarity_header_iconshape: happy-face
+clarity_header_iconshape: lightning
 
 gems:
   - jekyll-mentions
