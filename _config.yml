@@ -9,6 +9,9 @@ clarity_header_iconshape: lightning
 
 gems:
   - jekyll-mentions
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-avatar
 
 compress_html:
   blanklines: true
