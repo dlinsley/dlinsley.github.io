@@ -6,7 +6,6 @@ show_downloads: true
 twitter_username: danlinsley
 github_username:  dlinsley
 clarity_header_iconshape: happy-face
-source: src
 
 gems:
   - jekyll-mentions
