@@ -6,6 +6,7 @@ show_downloads: true
 twitter_username: danlinsley
 github_username:  dlinsley
 clarity_header_iconshape: lightning
+disqus_shortname: dlinsley-github-io
 
 gems:
   - jekyll-mentions
