@@ -1,14 +1,14 @@
-title: dlinsley.github.io
-description: 
+title: Iterative Failure
+description: Where success doesn't come on the first attempt
 google_analytics: 
 show_downloads: true
 
 twitter_username: danlinsley
 github_username:  dlinsley
-clarity_header_iconshape: lightning
+clarity_header_iconshape: cog
 disqus_shortname: dlinsley-github-io
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-gist
   - jekyll-sitemap
